@@ -1,12 +1,1 @@
-*.exe
-*.pdf
-*.mp4
-*.mp3
-*.png
-*.jpeg
-
 /resources/
-/resources/png/
-/resources/exe/
-/resources/mp4/
-/resources/pdf/
