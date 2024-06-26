@@ -52,6 +52,7 @@ Link: [React Native](https://reactnative.dev/)
     - 9-2. 베어 워크플로 프로젝트 퍼블리싱
     - 9-3. JSON 웹 토큰 기반 인증 서버 만들기
     - 9-4. 카메라 앱 만들기
+- [본문 외](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244806&parId=ccbe0ff733163886%21244797&o=OneUp)
 
 ## YouTube 동영상 강의
 
@@ -86,7 +87,7 @@ Link: [React Native](https://reactnative.dev/)
 - [#26. Custom Card Component](https://www.youtube.com/watch?v=5NewXsBnoKw&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=26) ✅
 - [#27. Using Images](https://www.youtube.com/watch?v=2s5KNg_5_LA&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=27) ✅
 - [#28. Background Images](https://www.youtube.com/watch?v=RULLuEC5C7Y&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=28) ✅
-- [#29. Modals](https://www.youtube.com/watch?v=pYh3Z-iBc4E&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=29)
+- [#29. Modals](https://www.youtube.com/watch?v=pYh3Z-iBc4E&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=29) ✅
 - [#30. Formik Forms (part 1)](https://www.youtube.com/watch?v=t4Q1s8WntlA&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=30)
 - [#31. Formik Forms (part 2)](https://www.youtube.com/watch?v=urzVC5Zr-JM&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=31)
 - [#32. Validation with Yup](https://www.youtube.com/watch?v=ftLy78R8xrg&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=32)
