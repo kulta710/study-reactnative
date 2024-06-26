@@ -1,4 +1,50 @@
 # study-reactnative
 
 ## Do it! 리액트 네이티브 앱 프로그래밍 [979-11-6303-242-7].pdf
-[1. 리액트 네이티브 개발 환경 갖추기](https://onedrive.live.com/?cid=CCBE0FF733163886&id=CCBE0FF733163886%21244789&parId=CCBE0FF733163886%21212226&o=OneUp)
+
+- [1. 리액트 네이티브 개발 환경 갖추기](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244789&parId=ccbe0ff733163886%21244797&o=OneUp)
+    - 1-1. 리액트 네이티브프레임워크 소개
+    - 1-2. 윈도우에서 개발 환경 갖추기
+    - 1-3. 맥에서 개발 환경 갖추기
+    - 1-4. 비주얼 스튜디오 코드 환경 설정과 사용법
+    - 1-5. 첫 번째 모바일 앱 만들기
+- [2. 리액트 네이티브 기본 다지기](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244798&parId=ccbe0ff733163886%21244797&o=OneUp)
+    - 2-1. 리액트 네이티브 프레임워크의 작동 원리
+    - 2-2. JSX 구문 탐구하기
+    - 2-3 컴포넌트와 속성 이해하기
+    - 2-4. 컴포넌트의 이벤트 속성 이해하기
+- [3. 컴포넌트 스타일]()
+    - 3-1. style 속성과 StyleSheet API 이해하기
+    - 3-2. View 컴포넌트와 CSS 박스 모델
+    - 3-3. 자원과 아이콘 사용하기
+    - 3-4. 컴포넌트 배치 관련 스타일 속성 탐구하기
+    - 3-5. 재사용할 수 있는 컴포넌트 만들기
+- [4. 함수 컴포넌트와 리액트 훅](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244800&parId=ccbe0ff733163886%21244797&o=OneUp)
+    - 4-1. 리액트 훅 맛보기
+    - 4-2. useMemo와 useCallback 훅 이해하기
+    - 4-3. useState 훅 이해하기
+    - 4-4. useEffect와 useLayoutEffect 훅 이해하기
+    - 4-5. 커스텀 훅 이해하기
+- [5. 콘텍스트와 ref 속성](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244801&parId=ccbe0ff733163886%21244797&o=OneUp)
+    - 5-1. 콘텍스트 이해하기
+    - 5-2. useRef 훅 이해하기
+    - 5-3. useImperativeHandle 훅 이해하기
+- [6. 리액트 네이티브 애니메이션]()
+    - 6-1. 처음 만나는 리액트 네이티브 애니메이션
+    - 6-2. transform 스타일 속성에 적용하는 애니메이션
+    - 6-3. 여러 개의 애니메이션 한꺼번에 실행하기
+    - 6-4. PanResponder API 이해하기
+- [7. 리액트 내비게이션](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244803&parId=ccbe0ff733163886%21244797&o=OneUp)
+    - 7-1. 리액트 내비게이션 패키지 이해하기
+    - 7-2. 스택 내비게이션 이해하기
+    - 7-3. 탭 내비게이션 이해하기
+    - 7-4. 드로어 내비게이션 이해하기
+- [8. 리덕스 이해하기](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244804&parId=ccbe0ff733163886%21244797&o=OneUp)
+    - 8-1. 리덕스의 기본 개념
+    - 8-2. combineReducers 함수 이해하기
+    - 8-3. 리덕스 미들웨어 이해하기
+- [9. 엑스포 앱 이해하기](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244805&parId=ccbe0ff733163886%21244797&o=OneUp)
+    - 9-1. 엑스포 앱 만들기
+    - 9-2. 베어 워크플로 프로젝트 퍼블리싱
+    - 9-3. JSON 웹 토큰 기반 인증 서버 만들기
+    - 9-4. 카메라 앱 만들기
