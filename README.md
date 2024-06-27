@@ -1,18 +1,16 @@
 # study-reactnative
 
 ## React Native 홈페이지
-
 Link: [React Native](https://reactnative.dev/)
 
 ## Do it! 리액트 네이티브 앱 프로그래밍 [979-11-6303-242-7].pdf
-
-- [1. 리액트 네이티브 개발 환경 갖추기](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244789&parId=ccbe0ff733163886%21244797&o=OneUp)
+- [1. 리액트 네이티브 개발 환경 갖추기](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244789&parId=ccbe0ff733163886%21244797&o=OneUp) ✅
     - 1-1. 리액트 네이티브프레임워크 소개
     - 1-2. 윈도우에서 개발 환경 갖추기
     - 1-3. 맥에서 개발 환경 갖추기
     - 1-4. 비주얼 스튜디오 코드 환경 설정과 사용법
     - 1-5. 첫 번째 모바일 앱 만들기
-- [2. 리액트 네이티브 기본 다지기](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244798&parId=ccbe0ff733163886%21244797&o=OneUp)
+- [2. 리액트 네이티브 기본 다지기](https://onedrive.live.com/?cid=CCBE0FF733163886&id=ccbe0ff733163886%21244798&parId=ccbe0ff733163886%21244797&o=OneUp) ✅
     - 2-1. 리액트 네이티브 프레임워크의 작동 원리
     - 2-2. JSX 구문 탐구하기
     - 2-3 컴포넌트와 속성 이해하기
@@ -58,7 +56,6 @@ Link: [React Native](https://reactnative.dev/)
 
 ### Net Ninja
 #### React Native Tutorial for Beginners
-
 - [#1. Introduction](https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) ✅
 - [#2. Creating a React Native App](https://www.youtube.com/watch?v=pflXnUNMsNk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=2) ✅
 - [#3. Views, Text & Styles](https://www.youtube.com/watch?v=_YydVvnjNFE&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=3) ✅
@@ -88,11 +85,13 @@ Link: [React Native](https://reactnative.dev/)
 - [#27. Using Images](https://www.youtube.com/watch?v=2s5KNg_5_LA&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=27) ✅
 - [#28. Background Images](https://www.youtube.com/watch?v=RULLuEC5C7Y&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=28) ✅
 - [#29. Modals](https://www.youtube.com/watch?v=pYh3Z-iBc4E&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=29) ✅
-- [#30. Formik Forms (part 1)](https://www.youtube.com/watch?v=t4Q1s8WntlA&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=30)
-- [#31. Formik Forms (part 2)](https://www.youtube.com/watch?v=urzVC5Zr-JM&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=31)
-- [#32. Validation with Yup](https://www.youtube.com/watch?v=ftLy78R8xrg&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=32)
-- [#33. Showing From Errors](https://www.youtube.com/watch?v=o_ErcEKV23I&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=33)
-- [#34. Custom Button Component](https://www.youtube.com/watch?v=LEa48P-KtCw&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=34)
-- [#35. Wrap Up](https://www.youtube.com/watch?v=BTnp1TiiSMg&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=35)
+- [#30. Formik Forms (part 1)](https://www.youtube.com/watch?v=t4Q1s8WntlA&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=30) ✅
+- [#31. Formik Forms (part 2)](https://www.youtube.com/watch?v=urzVC5Zr-JM&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=31) ✅
+- [#32. Validation with Yup](https://www.youtube.com/watch?v=ftLy78R8xrg&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=32) ✅
+- [#33. Showing From Errors](https://www.youtube.com/watch?v=o_ErcEKV23I&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=33) ✅
+- [#34. Custom Button Component](https://www.youtube.com/watch?v=LEa48P-KtCw&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=34) ✅
+- [#35. Wrap Up](https://www.youtube.com/watch?v=BTnp1TiiSMg&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=35) ✅
 
-
+### Simon Grimm
+- [THE React Native Tech Stack for 2024 😎](https://www.youtube.com/watch?v=Xwk4rcB6qVQ) ✅
+- [TV Apps with React Native](https://www.youtube.com/watch?v=4S7Ftg58Yeg)
